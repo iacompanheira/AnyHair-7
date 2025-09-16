@@ -1,0 +1,7 @@
+id,name,duration,price,description,color
+"1","Corte Feminino",60,120.00,"Estilo, lavagem e secagem para um look renovado.","bg-pink-400 border-pink-600"
+"2","Escova Progressiva",180,350.00,"Alisamento duradouro para cabelos lisos e sem frizz.","bg-purple-400 border-purple-600"
+"3","Coloração Completa",120,250.00,"Cobertura total dos fios com a cor de sua escolha.","bg-blue-400 border-blue-600"
+"4","Manicure & Pedicure",90,75.00,"Cuidado completo para unhas das mãos e dos pés.","bg-teal-400 border-teal-600"
+"5","Hidratação Profunda",45,90.00,"Tratamento intensivo para restaurar a saúde dos fios.","bg-green-400 border-green-600"
+"6","Design de Sobrancelha",30,50.00,"Modelagem e definição do formato das sobrancelhas.","bg-yellow-400 border-yellow-600"
